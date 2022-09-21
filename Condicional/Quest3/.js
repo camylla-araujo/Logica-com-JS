@@ -1,3 +1,5 @@
+// 3) Faça um algoritmo para receber um número qualquer e informar na tela se é par ou ímpar.
+
 let n = prompt ('Digite um número')
 let par = 'par'
 let impar = 'ímpar'
